@@ -1,0 +1,8 @@
+﻿  CheckBot.cpp
+c:\users\yaso\desktop\bll\cpp\conway\conway\checkbot.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaso\desktop\bll\cpp\conway\conway\checkbot.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaso\desktop\bll\cpp\conway\conway\checkbot.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaso\desktop\bll\cpp\conway\conway\checkbot.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaso\desktop\bll\cpp\conway\conway\checkbot.cpp(195): warning C4018: '<': signed/unsigned mismatch
+  Conway.vcxproj -> C:\Users\Yaso\Desktop\BLL\Cpp\Conway\Debug\Conway.exe
+  Conway.vcxproj -> C:\Users\Yaso\Desktop\BLL\Cpp\Conway\Debug\Conway.pdb (Partial PDB)

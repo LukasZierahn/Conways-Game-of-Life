@@ -1,0 +1,13 @@
+﻿  CheckBot.cpp
+CheckBot.cpp(15): warning C4018: '<': signed/unsigned mismatch
+CheckBot.cpp(28): warning C4018: '<': signed/unsigned mismatch
+CheckBot.cpp(192): warning C4018: '<': signed/unsigned mismatch
+CheckBot.cpp(215): warning C4018: '<': signed/unsigned mismatch
+CheckBot.cpp(217): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  16 of 1388 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    35 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Conway.vcxproj -> C:\Users\Yaso\Desktop\BLL\Cpp\Conway\Release\Conway.exe
+  Conway.vcxproj -> C:\Users\Yaso\Desktop\BLL\Cpp\Conway\Release\Conway.pdb (Full PDB)
